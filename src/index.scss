@@ -1,0 +1,6 @@
+// @use operator is only worked the sass
+@use "./scss/_variables.sass";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
